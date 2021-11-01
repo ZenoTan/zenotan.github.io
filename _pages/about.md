@@ -1,8 +1,8 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a PhD student at [University of Edinburgh](https://www.ed.ac.uk/), advised by [Luo Mai](https://luomai.github.io/). I am interested in large-scale adaptive machine learning systems. I'm currently building a distributed graph learning system called [torch_quiver](https://github.com/quiver-team/torch-quiver), and it is now open-sourced.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I graduated from [Zhejiang University](https://www.zju.edu.cn/english/) with a Bachelor degree. Previously, I interned at research labs(Microsoft Research Asia, Amazon AI) and industry(Alibaba, Tencent). I also worked as a full-time software engineer at a startup [PingCAP](https://pingcap.com/).
