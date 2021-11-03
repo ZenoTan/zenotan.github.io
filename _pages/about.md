@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
+author_profile: true
 ---
 
 I am a PhD student at [University of Edinburgh](https://www.ed.ac.uk/), advised by [Luo Mai](https://luomai.github.io/). I am interested in large-scale adaptive machine learning systems. I'm currently building a distributed graph learning system called [torch_quiver](https://github.com/quiver-team/torch-quiver), and it is now open-sourced.
