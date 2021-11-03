@@ -7,11 +7,11 @@ title: "Projects"
 
 - [**Torch-Quiver**](https://github.com/quiver-team/torch-quiver): A Scalable Graph Learning System with Adaptive End-to-end Parallelism
 
-    Scalable training of graph neural networks...
+    Scalable training of graph neural networks
 
 - [**DGL-KE**](https://github.com/awslabs/dgl-ke): Training Knowledge Graph Embeddings at Scale
 
-    ...and knowledge graph embeddings
+    Distributed knowledge graph embeddings
 
 ## Databases
 
