@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Zeyuan Tan"
   avatar : "/assets/images/self.jpeg"
-  bio    : "PhD student at University of Edinburgh, GNN system researcher"
+  bio    : "Msc by Research student at University of Edinburgh interested in distributed systems"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -74,7 +74,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/ZenoTan"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:zeyuan.tan@ed.ac.uk"
